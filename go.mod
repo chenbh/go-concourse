@@ -1,4 +1,4 @@
-module github.com/chenbh/go-concourse
+module github.com/chenbh/go-concourse/v6
 
 go 1.15
 
