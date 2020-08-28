@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/chenbh/concourse/atc"
-	"github.com/chenbh/concourse/go-concourse/concourse/internal"
+	"github.com/chenbh/go-concourse/internal"
 )
 
 const inputDateLayout = "2006-01-02"

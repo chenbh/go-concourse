@@ -12,3 +12,5 @@ require (
 	github.com/vito/go-sse v1.0.0
 	sigs.k8s.io/yaml v1.2.0
 )
+
+replace github.com/chenbh/concourse/go-concourse/concourse/internal => ./internal

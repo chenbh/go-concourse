@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/chenbh/concourse/go-concourse/concourse/internal"
+	"github.com/chenbh/go-concourse/internal"
 )
 
 // ErrUnauthorized is returned for 401 response codes.

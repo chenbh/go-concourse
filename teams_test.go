@@ -6,8 +6,8 @@ import (
 	"net/http"
 
 	"github.com/chenbh/concourse/atc"
-	"github.com/chenbh/concourse/go-concourse/concourse"
-	"github.com/chenbh/concourse/go-concourse/concourse/internal"
+	"github.com/chenbh/go-concourse"
+	"github.com/chenbh/go-concourse/internal"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

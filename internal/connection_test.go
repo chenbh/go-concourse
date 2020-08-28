@@ -10,8 +10,8 @@ import (
 
 	"github.com/chenbh/concourse/atc"
 	"github.com/chenbh/concourse/atc/event"
-	"github.com/chenbh/concourse/go-concourse/concourse/eventstream"
-	. "github.com/chenbh/concourse/go-concourse/concourse/internal"
+	"github.com/chenbh/go-concourse/eventstream"
+	. "github.com/chenbh/go-concourse/internal"
 	"github.com/google/jsonapi"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

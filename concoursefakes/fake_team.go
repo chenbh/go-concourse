@@ -6,7 +6,7 @@ import (
 	"sync"
 
 	"github.com/chenbh/concourse/atc"
-	"github.com/chenbh/concourse/go-concourse/concourse"
+	"github.com/chenbh/go-concourse"
 )
 
 type FakeTeam struct {

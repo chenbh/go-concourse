@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"sync"
 
-	"github.com/chenbh/concourse/go-concourse/concourse/internal"
+	"github.com/chenbh/go-concourse/internal"
 	"github.com/vito/go-sse/sse"
 )
 
